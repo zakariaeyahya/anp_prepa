@@ -1,0 +1,11 @@
+# Sources LaTeX : on garde uniquement les PDF compilés dans le repo
+*.tex
+
+# Fichiers auxiliaires de compilation LaTeX (au cas où une compilation locale les génère)
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk

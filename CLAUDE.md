@@ -21,7 +21,7 @@ de `d:/anp` → donc **5 fichiers LaTeX au total** pour tout le plan de révisio
 | 1 | `ML/`                | `ML/ml.tex`                   | Jour 1 (fondamentaux ML) + Jour 3 partie ML avancé/preprocessing |
 | 2 | `Statistiques/`      | `Statistiques/statistiques.tex` | Jour 2 partie Statistiques                                     |
 | 3 | `Python.sql/`        | `Python.sql/python_sql.tex`   | Jour 2 partie Python/Pandas + SQL                               |
-| 4 | `Big_Data/`          | `Big_Data/big_data.tex`       | Jour 3 partie Big Data (Hadoop/Spark/Kafka)                     |
+| 4 | `Big_Data/`          | `Big_Data/big_data.tex`       | Jour 3 partie Big Data (Hadoop/Spark/Kafka) + Veille économique/concurrentielle et outils BI (Power BI/Tableau/SAS/SPSS) |
 | 5 | `anp/`               | `anp/anp.tex`                 | Jour 1 partie ANP-1, Jour 2 partie ANP-2, Jour 3 partie ANP-3, actualité ANP |
 
 Le Jour 4 (simulation réelle) n'est PAS un fichier de cours séparé : c'est un examen blanc
