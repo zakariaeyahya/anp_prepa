@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cd \"d:/anp/ML\" && rm -f ml.aux ml.log ml.out && ls -la ml.pdf)",
+      "Bash(cd \"d:/anp/ML\" && rm -f ml.aux ml.log ml.out ml.toc)"
+    ],
+    "additionalDirectories": [
+      "d:\\anp\\ML"
+    ]
+  }
+}
